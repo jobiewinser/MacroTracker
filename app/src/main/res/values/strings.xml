@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MacroTracker</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="plus1">+1</string>
+    <string name="plus10">+10</string>
+    <string name="plus100">+100</string>
+    <string name="plus1000">+1000</string>
+    <string name="minus1">-1</string>
+    <string name="minus10">-10</string>
+    <string name="minus100">-100</string>
+    <string name="minus1000">-1000</string>
+    <string name="protein_display_english">Protein:   %1$d</string>
+    <string name="calorie_display_english">Calories:   %1$d</string>
+
+</resources>
